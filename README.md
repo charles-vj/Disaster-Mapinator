@@ -1,4 +1,4 @@
-# Disaster-Trackinator
+# Disaster-Mapinator
 
 React and NASA API based web-app, to track natural disasters. Displayed using Google-Map-React.
 
